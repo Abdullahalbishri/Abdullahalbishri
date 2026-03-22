@@ -1,9 +1,5 @@
-- 👋 Hi, I’m @Abdullahalbishri
-- 👀 I’m interested in FPGA ,C,C++,C# ,Embedded system.
-- 🌱 I’m currently learning FPGA
-- 📫 object.a@hotmail.com
-
-<!---
-Abdullahalbishri/Abdullahalbishri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Computer Engineer with a strong focus on Embedded Systems, Low-Level Software, and Hardware-Software Co-Design. I specialize in building efficient, reliable systems close to the hardware layer.
+Embedded Linux & real-time control systems
+RISC-V ecosystem and custom SoC design
+FPGA acceleration and hardware-aware computing
+Advanced AI systems integrated with embedded platforms
